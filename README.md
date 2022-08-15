@@ -22,7 +22,9 @@ print(calculator.rows, calculator.overweight_counter)
 ```
 
 also you can run it with simple data providied in the challenge description by just calling the file itself
+
 `python3 bmiCalculator.py` 
 
 you can run tests for this class as follow:
+
 `python3 test_bmi_calculator.py`
